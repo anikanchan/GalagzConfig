@@ -1,4 +1,5 @@
 token:
   expiration:
     time: 7200000
+    time2: 123123
   secret: hjsdahsjdhasjda78678yiuahsd89y
